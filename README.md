@@ -1,4 +1,4 @@
-# Hands on with Jenkins, Terraform, AWS and React
+# Hands on with Jenkins, Terraform, AWS and React!
 
 For this playground, we will be building an automated CI/CD pipeline that deploys a **scalable** React web application to AWS. Here's an overview of what we'll cover:
 
